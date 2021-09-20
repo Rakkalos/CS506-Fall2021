@@ -1,1 +1,2 @@
 Rakkalos
+finished exercise 3
